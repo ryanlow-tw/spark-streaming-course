@@ -1,0 +1,6 @@
+.idea
+spark-streaming-example/twitter.txt
+spark-streaming-example/.bsp
+spark-streaming-example/.idea
+spark-streaming-example/target
+spark-streaming-example/project
